@@ -1,0 +1,35 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #8261fae2;
+    color: #cdb7b7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 80vh;
+    margin-top: 250px;
+}
+
+h1 {
+    font-size: 3rem;
+    color: #140168;
+    margin-top: 10px;
+    text-shadow: 2px 2px #f0f0f0;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: #12b4e1;
+    margin-top: 0.5rem;
+}
+
+button {
+    background-color: #e7e7d9;
+    color: #141308;
+    border: none;
+    padding: 20px 30px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 10px;
+}
